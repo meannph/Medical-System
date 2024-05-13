@@ -1,0 +1,67 @@
+.status {
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+.logo {
+    height: 50px;
+    width: 30px; 
+   
+}
+.name {
+    height: 43px;
+    width: 135px; 
+}
+
+.right-align {
+    text-align: right;
+  }
+
+
+  .card-title {
+    font-size: 30px;
+    /* color: #e6e6e6; */
+  }
+
+  th{
+    font-weight: bold;
+  }
+  
+  /* สไตล์สำหรับส่วนข้อมูลการแสดงผล */
+  .MuiTablePagination-displayedRows {
+    color: #000000; /* เปลี่ยนสีของข้อมูลที่แสดง */
+    padding-top: 13px;
+  }
+  .MuiTablePagination-selectLabel{
+    padding-top: 12px;
+    color: #000000; /* Change the text color */
+    /* Add any other styles you want to customize */
+  }
+
+  div {
+    font-family: 'Montserrat', sans-serif; /* Use Montserrat font or fallback to a generic sans-serif font */
+  }
+  
+  .textmark {
+    color: red;
+  }
+  h6{
+    color: rgb(127, 127, 127);
+  }
+  body{
+    background-color: rgb(238, 238, 238);
+  }
+  h3{
+    font-size: 28px;
+  }
+  thead{
+   color: #535353;
+
+  }
+
+    
+          .tr {
+               background-color: #e6e6e6;
+            
+           }
+      
